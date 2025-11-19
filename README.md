@@ -19,9 +19,9 @@ Click destro su IMem → View IMEM
 Click destro sul componente RAM
 Carica Fibo.txt
 3. Avvia l’esecuzione
-Attiva il pin di Load (in alto a sinistra )
-Premi Ctrl + T per avviare il clock
-Osserva i valori della serie di Fibonacci cambiare sul display
+- Attivare il pin di Load ( in alto a sinistra )
+- Premi Ctrl + T per avviare il clock
+- Osserva i valori della serie di Fibonacci cambiare sul display
 4. Reset
 Premere il tasto Reset
 Il processore è pronto per un nuovo programma.
