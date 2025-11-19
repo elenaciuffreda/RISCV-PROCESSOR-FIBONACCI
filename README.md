@@ -11,7 +11,7 @@ Il processore è in grado di eseguire istruzioni di base (aritmetiche, logiche, 
 - Python
 - JAVA / JVM
 
-### Come eseguire il progetto
+### Come eseguire il progetto:
 1. Apri il circuito principal
 Apri Main/Final.circ con Logisim.
 2. Carica il programma
