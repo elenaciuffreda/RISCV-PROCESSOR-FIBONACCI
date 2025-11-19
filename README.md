@@ -19,9 +19,19 @@ Click destro su IMem → View IMEM
 Click destro sul componente RAM
 Carica Fibo.txt
 3. Avvia l’esecuzione
-- Attivare il pin di Load ( in alto a sinistra )
-- Premi Ctrl + T per avviare il clock
-- Osserva i valori della serie di Fibonacci cambiare sul display
+
+    - Attivare il pin di Load ( in alto a sinistra )
+    - Premi Ctrl + T per avviare il clock
+    - Osserva i valori della serie di Fibonacci cambiare sul display
+
 4. Reset
 Premere il tasto Reset
 Il processore è pronto per un nuovo programma.
+
+### Obiettivi didattici del progetto
+
+- Comprendere l’architettura RISC-V RV32I e la sua struttura a livello hardware.
+- Realizzare un datapath completo con PC, Register File, ALU, IMem, DMem e Control Logic.
+- Implementare il ciclo di esecuzione delle istruzioni tramite segnali di controllo.
+- Sviluppare capacità nella progettazione hardware tramite Logisim.
+- Consolidare i concetti di Computer Architecture (CAO): datapath, control unit, memory addressing.
