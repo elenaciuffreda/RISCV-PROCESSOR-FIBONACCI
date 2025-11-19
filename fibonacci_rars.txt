@@ -1,0 +1,6 @@
+v2.0 raw
+108093   # addi x1, x1, 1    -> f0 = 1
+110113   # addi x2, x2, 1    -> f1 = 1
+208133   # add x6, x2, x8    -> f2 = f1 + f0
+2080b3   # add x1, x1, x8    -> shift valori
+ffdff1ef # jal x3, -3        -> loop infinito
